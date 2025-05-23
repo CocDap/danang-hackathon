@@ -1,9 +1,9 @@
 
 <div align="center">
 
-![Group 225](https://github.com/user-attachments/assets/e8b0cc06-1adb-417a-be5c-44542fe92269)
+![Group 225](https://magenta-impossible-turkey-605.mypinata.cloud/ipfs/bafybeihq53ihlc62igsnisgneqktnqcmw34ckfu3meqqvafyq35tkg244a)
 
-# OpenGuild Hackcamp Da Nang PolkaVM Challenges
+# Da Nang Hackcamp by OpenGuild 2025
 
 </div>
 
