@@ -1,26 +1,44 @@
 
+## Challenge details
+A decentralized lending and borrowing protocol built on Polkadot Asset Hub that enables users to lend their assets and borrow against their collateral, leveraging Polkadot's cross-chain capabilities and security features.
 
-Core Requirements
-1. Basic Protocol Implementation
-[ ] Implement collateral deposit and withdrawal
-[ ] Implement loan taking and repayment
-[ ] Handle token transfers correctly
-[ ] Implement proper event emissions
-2. Security Requirements
-[ ] Implement access control
-[ ] Add input validation
-[ ] Ensure safe token transfers
-[ ] Protect against common vulnerabilities
-3. Testing Requirements
-[ ] Write basic test cases
-[ ] Test all main functions
-[ ] Test edge cases
-[ ] Verify event emissions
-Submission Requirements
-1. Code Submission
-[ ] Smart contract code
-[ ] Create tests 
-2. Deployment
-[ ] Deploy to Westend Asset Hub
+## Functional Specifications 
+
++ Collateral System : Users can deposit tokens as collateral, withdraw them when not locked in a loan, and use this collateral to secure their borrowing needs.
+
++ Lending System : Users can borrow tokens against their collateral up to a limit determined by the collateral factor, with the restriction of having only one active loan at a time.
+
++ Repayment System: Users can repay their loans either partially or in full, with the loan status automatically updating to reflect the current repayment state.
+
+
+## Implementation Requirements 
+### 1. Core Functions
+- [x] Mercury
+
+[ ] depositCollateral: Implement collateral deposit logic
+
+[ ] withdrawCollateral: Implement collateral withdrawal logic
+
+[ ] takeLoan: Implement loan taking logic
+
+[ ] repayLoan: Implement loan repayment logic
+### 2. Helper Functions
+
+[ ] _loanRequiredCollateral: Implement required collateral calculation
+
+[ ] getLoanDetails: Implement loan information retrieval
+
+### 3. Admin Functions
+
+[ ] setCollateralFactor: Implement collateral factor update
+
+### 4. Tests 
+[ ] Test all function implementations
+
+## Submission Requirements 
+1. Finish `todo` smart contract logic 
+2. Run tests 
+3. Deploy to Westend Asset Hub 
+
 
 
