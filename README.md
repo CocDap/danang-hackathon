@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Group 225](https://magenta-impossible-turkey-605.mypinata.cloud/ipfs/bafybeihq53ihlc62igsnisgneqktnqcmw34ckfu3meqqvafyq35tkg244a)
+![Da Nang Hackcamp](./assets/danang_hackcamp.png)
 
 # Da Nang Hackcamp by OpenGuild 2025
 
