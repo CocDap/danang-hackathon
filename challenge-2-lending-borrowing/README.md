@@ -11,7 +11,10 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 + Repayment System: Users can repay their loans either partially or in full, with the loan status automatically updating to reflect the current repayment state.
 
 
-## Implementation Requirements 
+## Implementation Smart Contract Requirements
+
+
+
 ### 1. Core Functions
 
 - [ ] **depositCollateral**: Implement collateral deposit logic
@@ -34,6 +37,15 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 
 ### 4. Tests 
 - [ ] Test all function implementations
+
+## Implementation UI Requirements 
+
+Build the UI with features based on the requirements:
+
+- [ ] Deposit/Withdraw Collateral
+- [ ] Loan and Repay 
+- [ ] Show loan details 
+
 
 ## Submission Requirements 
 - [ ] Finish `TODO` smart contract logic 
