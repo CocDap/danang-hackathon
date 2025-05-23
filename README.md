@@ -1,32 +1,83 @@
-# Challenge 2: Lending and Borrowing Protocol 
 
-This project demonstrates how to use Hardhat with Polkadot. It comes with a few sample contracts, Hardhat Ignition modules that deploy the contract and binaries needed for local deployment.
+<div align="center">
 
-1) All binaries are in the `binaries` folder. Be sure to update the path of the binaries in the `hardhat.config.ts` file.
+![Group 225](https://github.com/user-attachments/assets/e8b0cc06-1adb-417a-be5c-44542fe92269)
 
-2) Time is returned in milliseconds in Polkadot. See the ignition module `Lock.ts`.
+# OpenGuild Hackcamp Da Nang PolkaVM Challenges
 
+</div>
 
-Then configure the hardhat config as per documentation (linked below).
+## (Optional) Setup environment and register for the challenges
 
+TLDR: If you are not familiar with Git & Github, follow these steps below to fork and setup your own repository.
 
-5) Commands to run the project:
+- Step 1: Install Git & Github Desktop (optional) on your local device
+- Step 2: Fork this repository by click the `Fork button` on Github
 
-```bash
-git clone git@github.com:UtkarshBhardwaj007/hardhat-polkadot-example.git
+![image](https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7fa2f01a-b523-4208-92db-d8af7a274d98)
 
-npm install
+- Step 3: `Clone` the forked repository to your local device using the below command
 
-npx hardhat vars set WESTEND_HUB_PK (your westend asset hub private key)
-
-(optional) npm install --save-dev solc@<WHATEVER-VERSION-YOU-NEED> (if you need a specific solc version or you get errors regarding your solc version)
-
-npx hardhat compile
-
-npx hardhat ignition deploy ./ignition/modules/MyToken.ts --network westendAssetHub
+```sh
+git clone https://github.com/<your_github_username>/open-danang-hackcamp-2025.git
 ```
 
-6) Resources:
+Replace the `[name-of-your-account]` with your Github username. For example, if my username is `chungquantin`, I would do the below command to clone the repository to my local device.
+
+```sh
+git clone https://github.com/openguild-labs/open-danang-hackcamp-2025.git
+```
+
+- Step 4: Edit the `README.md` file to register for official participation
+
+Go to **Participant Registration** section and register to be the workshop participants. Add the below to the list, replace any placeholder with your personal information.
+
+```
+| 🦄 | Name | Github username | Your current occupation |
+```
+
+- Step 5: `Commit` your code and push to the forked Github repository
+
+```
+git add .
+git commit -m "<Your Name> | Register for OpenGuild Da Nang Hackcamp 2025"
+```
+
+- Step 6: Create a `Pull Request` to merge your changes to this repository and name your PR as `Your name | Register for Da Nang Hackcamp 2025`
+
+<img width="1166" alt="Screenshot 2024-04-19 at 16 23 45" src="https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7554ca7d-da68-4a23-893a-4f2c11a78d37">
+
+<br/>
+
+<div align="center">
+
+## Discover the List of Challenges 🏆
+
+Total prize pool: 2000$ / 10 submissions
+
+| Challenge | Description                                                                                                                                                                                                      | Action                                               | Bounty |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------ |
+| 1         | Building Uniswap V2 Application                                                                      | [Take Challenge](./challenge-1-uniswapv2/README.md)    | $50    |
+| 2         | Building Lending and Borrowing Application                                                                       | [Take Challenge](./challenge-2-lending-borrowing/README.md) | $50    |
+| 3         | Build a cross-chain application using XCM | [Take Challenge](./challenge-3-xcm/README.md)   | $50    |
+| 4         | Create a unique and optimal UX for interacting with Bifrost Liquid Staking Tokens available on many chains | [Take Challenge](./challenge-4-bifrost/README.md)   | $50    |
+| 5         | Polkadot SDK  | [Take Challenge](./challenge-5-polkadot-sdk/README.md)   | $50    |
+</br>
+</br>
+
+## 👉 Contribute to OpenGuild Community
+
+OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is built by Web3 builders for Web3 builders. Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
+
+- **About us:** [Learn more about us](https://openguild.wtf/about)
+- **Website:** [OpenGuild Website](https://openguild.wtf/)
+- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
+- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
+
+
+## 👉 Resource for Development and Support Channels
+### Resources
+
 - [Polkadot Smart Contracts Documentation](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/)
 - [Polkadot Smart Contracts Tutorial](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/)
 - [Polkadot Smart Contract Basics](https://papermoonio.github.io/polkadot-mkdocs/polkadot-protocol/smart-contract-basics/)
@@ -35,14 +86,12 @@ npx hardhat ignition deploy ./ignition/modules/MyToken.ts --network westendAsset
 - [Remix for Polkadot](https://remix.polkadot.io/)
 - [Old Smart Contract Docs](https://contracts.polkadot.io/)
 
-7) Support Channels:
-- [Discord](https://discord.gg/polkadot)
+
+### Support Channels
+- [Discord Polkadot](https://discord.gg/polkadot)
 - [Stack Exchange](https://substrate.meta.stackexchange.com/)
 - [Telegram](https://t.me/substratedevs)
 - [Reddit](https://www.reddit.com/r/Polkadot/)
+- [Discord OpenGuild](https://github.com/openguild-labs)
 
 
-
-LendingTokenModule#LendingToken - 0xdD6AC228fc29b3827E8E728Da1737322E84FF1a6
-CollateralTokenModule#CollateralToken - 0x4D039C42243643EC7015A64B93bdb5A89ddD5944
-LendingBorrowingModule#LendingBorrowing - 0x006aeBBf1b039C2A190028BA4E7A60C429a6c746
