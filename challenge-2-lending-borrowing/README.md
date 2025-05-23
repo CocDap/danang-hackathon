@@ -13,27 +13,27 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 
 ## Implementation Requirements 
 ### 1. Core Functions
-- [x] Mercury
 
-[ ] depositCollateral: Implement collateral deposit logic
 
-[ ] withdrawCollateral: Implement collateral withdrawal logic
+- [x] depositCollateral: Implement collateral deposit logic
 
-[ ] takeLoan: Implement loan taking logic
+- [ ] withdrawCollateral: Implement collateral withdrawal logic
 
-[ ] repayLoan: Implement loan repayment logic
+- [ ] takeLoan: Implement loan taking logic
+
+- [ ] repayLoan: Implement loan repayment logic
 ### 2. Helper Functions
 
-[ ] _loanRequiredCollateral: Implement required collateral calculation
+- [ ] _loanRequiredCollateral: Implement required collateral calculation
 
-[ ] getLoanDetails: Implement loan information retrieval
+- [ ] getLoanDetails: Implement loan information retrieval
 
 ### 3. Admin Functions
 
-[ ] setCollateralFactor: Implement collateral factor update
+- [ ] setCollateralFactor: Implement collateral factor update
 
 ### 4. Tests 
-[ ] Test all function implementations
+- [ ] Test all function implementations
 
 ## Submission Requirements 
 1. Finish `todo` smart contract logic 
