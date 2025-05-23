@@ -13,7 +13,7 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 
 ## Implementation Smart Contract Requirements
 
-
+Link contract: [Contract](/contracts)
 
 ### 1. Core Functions
 
@@ -40,15 +40,18 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 
 ## Implementation UI Requirements 
 
+Link UI sample: [DOT UI](/frontend)
+
 Build the UI with features based on the requirements:
 
-- [ ] Deposit/Withdraw Collateral
-- [ ] Loan and Repay 
-- [ ] Show loan details 
+- [ ] **Deposit/Withdraw Collateral**
+- [ ] **Loan and Repay**
+- [ ] **Show loan details**
 
 
 ## Submission Requirements 
-- [ ] Finish `TODO` smart contract logic 
+- [ ] Finish `TODO` smart contract logic
+- [ ] Complete UI 
 - [ ] Run tests 
 - [ ] Deploy to Westend Asset Hub 
 
