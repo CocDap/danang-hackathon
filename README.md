@@ -65,15 +65,7 @@ Total prize pool: 2000$ / 10 submissions
 </br>
 </br>
 
-## 👉 Contribute to OpenGuild Community
-
-OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is built by Web3 builders for Web3 builders. Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
-
-- **About us:** [Learn more about us](https://openguild.wtf/about)
-- **Website:** [OpenGuild Website](https://openguild.wtf/)
-- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
-- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
-
+</div>
 
 ## 👉 Resource for Development and Support Channels
 ### Resources
@@ -93,5 +85,18 @@ OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is b
 - [Telegram](https://t.me/substratedevs)
 - [Reddit](https://www.reddit.com/r/Polkadot/)
 - [Discord OpenGuild](https://github.com/openguild-labs)
+
+
+## 👉 Contribute to OpenGuild Community
+
+OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is built by Web3 builders for Web3 builders. Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
+
+- **About us:** [Learn more about us](https://openguild.wtf/about)
+- **Website:** [OpenGuild Website](https://openguild.wtf/)
+- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
+- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
+
+
+
 
 
