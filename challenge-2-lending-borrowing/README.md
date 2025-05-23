@@ -15,7 +15,7 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 ### 1. Core Functions
 
 
-- [x] depositCollateral: Implement collateral deposit logic
+- [] depositCollateral: Implement collateral deposit logic
 
 - [ ] withdrawCollateral: Implement collateral withdrawal logic
 
@@ -36,9 +36,9 @@ A decentralized lending and borrowing protocol built on Polkadot Asset Hub that 
 - [ ] Test all function implementations
 
 ## Submission Requirements 
-1. Finish `todo` smart contract logic 
-2. Run tests 
-3. Deploy to Westend Asset Hub 
+- [ ] Finish `todo` smart contract logic 
+- [ ] Run tests 
+- [ ] Deploy to Westend Asset Hub 
 
 
 
