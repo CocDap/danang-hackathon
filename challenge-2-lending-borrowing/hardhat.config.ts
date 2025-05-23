@@ -28,7 +28,8 @@ const config: HardhatUserConfig = {
                 dev: true,
             },
             accounts: {
-                accountsBalance: "10000000000000000000000" // 10000 ETH
+                accountsBalance: "10000000000000000000000", // 10000 ETH,
+                count: 5,
             },
         },
         localNode: {
@@ -38,7 +39,7 @@ const config: HardhatUserConfig = {
         westendAssetHub: {
             polkavm: true,
             url: 'https://westend-asset-hub-eth-rpc.polkadot.io',
-            accounts: [process.env.PRIVATE_KEY as string],
+            accounts: [process.env.PRIVATE_KEY as string, process.env.PRIVATE_KEY_2 as string],
         },
     }
 };
