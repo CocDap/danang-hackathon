@@ -53,14 +53,14 @@ git commit -m "<Your Name> | Register for OpenGuild Da Nang Hackcamp 2025"
 
 ## Discover the List of Challenges 🏆
 
-Total prize pool: 2000$ / 5 winners 
-
+Total OpenGuild prize pool: 2000$ / 5 winners 
+Total Bifrost Parner prize pool: $300-$1000 (dedicated to Bifrost's Challenge)
 | Challenge | Description                                                                                                                                                                                                      | Action                                               | Bounty |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------ |
-| 1         | Building Uniswap V2 Application                                                                      | [Take Challenge](./challenge-1-uniswapv2/README.md)    | $400    |
-| 2         | Building Lending and Borrowing Application                                                                       | [Take Challenge](./challenge-2-lending-borrowing/README.md) | $400    |
-| 3         | Build a cross-chain application using XCM | [Take Challenge](./challenge-3-xcm/README.md)   | $400    |
-| 4        | Polkadot SDK  | [Take Challenge](./challenge-4-polkadot-sdk/README.md)   | $400    |
+| 1         | Building Uniswap V2 Application                                                                      | [Take Challenge](./challenge-1-uniswapv2/README.md)    | $    |
+| 2         | Building Lending and Borrowing Application                                                                       | [Take Challenge](./challenge-2-lending-borrowing/README.md) | $    |
+| 3         | Build a cross-chain application using XCM | [Take Challenge](./challenge-3-xcm/README.md)   | $    |
+| 4        | Polkadot SDK  | [Take Challenge](./challenge-4-polkadot-sdk/README.md)   | $    |
 | Parner Track - Bifrost        | Create a unique and optimal UX for interacting with Bifrost Liquid Staking Tokens available on many chains | [Take Challenge](./challenge-bifrost/README.md)   | $300-$1000    |
 </br>
 </br>
