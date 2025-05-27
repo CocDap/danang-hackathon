@@ -31,6 +31,36 @@ NativePool provides a service where people can deposit native token and they wil
 - [ ] Record a video that run/simulate the logic on Polkadot JS explorer. 
 
 
+## How to run minimal template 
+
+### Step 1:  Install `polkadot-omni-node`
+
+
+### Step 2:  Install `staging-chain-spec-builder`
+
+### Step 3:  Build both node & runtime
+
+```sh
+cargo build --workspace --release
+```
+
+### Step 4: Use chain-spec-builder to generate the chain_spec.json file
+
+```sh
+chain-spec-builder create --relay-chain "dev" --para-id 1000 --runtime \
+    target/release/wbuild/minimal-template-runtime/minimal_template_runtime.wasm named-preset development
+```
+
+
+### Step 5: Run Omni Node
+
+Start Omni Node in development mode (sets up block production and finalization based on manual seal,
+sealing a new block every 3 seconds), with a minimal template runtime chain spec.
+
+```sh
+polkadot-omni-node --chain <path/to/chain_spec.json> --dev
+```
+
 
 
 
