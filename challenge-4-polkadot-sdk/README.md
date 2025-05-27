@@ -33,10 +33,22 @@ NativePool provides a service where people can deposit native token and they wil
 
 ## How to run minimal template 
 
+### Prerequisites
+
+Completed the Install [Polkadot SDK Dependencies](https://docs.polkadot.com/develop/parachains/install-polkadot-sdk/) guide and successfully installed [Rust](https://www.rust-lang.org/) and the required packages to set up your development environment
+
+
 ### Step 1:  Install `polkadot-omni-node`
 
+```sh
+cargo install --locked polkadot-omni-node@0.5.0
+```
 
 ### Step 2:  Install `staging-chain-spec-builder`
+
+```sh
+cargo install --locked staging-chain-spec-builder@10.0.0
+```
 
 ### Step 3:  Build both node & runtime
 
