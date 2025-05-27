@@ -53,8 +53,9 @@ git commit -m "<Your Name> | Register for OpenGuild Da Nang Hackcamp 2025"
 
 ## Discover the List of Challenges 🏆
 
-Total OpenGuild prize pool: 2000$ / 5 winners 
-Total Bifrost Parner prize pool: $300-$1000 (dedicated to Bifrost's Challenge)
+Total OpenGuild prize pool: **2000$ / 5 winners** 
+<br/>
+Total Bifrost Parner prize pool: **300$-1000$** (dedicated to Bifrost's Challenge)
 | Challenge | Description                                                                                                                                                                                                      | Action                                               | Bounty |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------ |
 | 1         | Building Uniswap V2 Application                                                                      | [Take Challenge](./challenge-1-uniswapv2/README.md)    | $    |
