@@ -57,11 +57,11 @@ Total prize pool: 2000$ / 10 submissions
 
 | Challenge | Description                                                                                                                                                                                                      | Action                                               | Bounty |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------ |
-| 1         | Building Uniswap V2 Application                                                                      | [Take Challenge](./challenge-1-uniswapv2/README.md)    | $50    |
-| 2         | Building Lending and Borrowing Application                                                                       | [Take Challenge](./challenge-2-lending-borrowing/README.md) | $50    |
-| 3         | Build a cross-chain application using XCM | [Take Challenge](./challenge-3-xcm/README.md)   | $50    |
-| 4         | Create a unique and optimal UX for interacting with Bifrost Liquid Staking Tokens available on many chains | [Take Challenge](./challenge-4-bifrost/README.md)   | $50    |
-| 5         | Polkadot SDK  | [Take Challenge](./challenge-5-polkadot-sdk/README.md)   | $50    |
+| 1         | Building Uniswap V2 Application                                                                      | [Take Challenge](./challenge-1-uniswapv2/README.md)    | $400    |
+| 2         | Building Lending and Borrowing Application                                                                       | [Take Challenge](./challenge-2-lending-borrowing/README.md) | $400    |
+| 3         | Build a cross-chain application using XCM | [Take Challenge](./challenge-3-xcm/README.md)   | $400    |
+| 4         | Create a unique and optimal UX for interacting with Bifrost Liquid Staking Tokens available on many chains | [Take Challenge](./challenge-4-bifrost/README.md)   | $300-$1000    |
+| 5         | Polkadot SDK  | [Take Challenge](./challenge-5-polkadot-sdk/README.md)   | $400    |
 </br>
 </br>
 
